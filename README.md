@@ -15,6 +15,8 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
 
 ### Proyectos
 
+**Click sobre la Imagen te lleva al despliegue del Proyecto**
+
 <table>
   <tr>
     <td>
