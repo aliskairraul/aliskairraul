@@ -15,6 +15,10 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
 
 ### Proyectos
 
+<p style="text-align: justify; text-indent: 2em;">
+Por favor tome en cuenta que los proyectos fueron desplegados en las capas gratuitas de distintas plataformas.  En el caso de Render los despliegues tardan 1 minuto aproximadamente en cargar, y en el caso de HuggingFace es probable de deba darle al Boton "Restart this Space" para que cargue la página.
+</p>
+
 **Click sobre la Imagen te lleva al despliegue del Proyecto**
 
 <table>
