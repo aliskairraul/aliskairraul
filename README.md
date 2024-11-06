@@ -7,7 +7,7 @@
 ### Acerca de mi
 
 <p style="text-align: justify; text-indent: 2em;">
-Ingeniero en Información de carrera, mi enfoque en convertir datos en información y servir de apoyo al proceso de Toma de Decisiones. Los Ingenieros en Información fuímos formados para ser personas  interfaces entre departamentos, con nociones en procesos administrativos, manufactura y un poco mas en informática. Este último año experimenté un refrescamineto o actualización estudiando Data Science, y he visto gratamente como desde la Ingeniería de Datos hasta BI, en todas las áreas sin excepción, la CALIDAD/CANTIDAD de los datos, obviamente conocinedo el contexto, es lo que garantiza la obtención de Información relevante y de calidad.
+Ingeniero en Información de carrera, mi enfoque en convertir datos en información y servir de apoyo al proceso de Toma de Decisiones. Los Ingenieros en Información fuímos formados para ser personas  interfaces entre departamentos, con nociones en procesos administrativos, manufactura y un poco mas en informática. Este último año experimenté un refrescamiento o actualización estudiando Data Science, y he visto gratamente como desde la Ingeniería de Datos hasta BI, en todas las áreas sin excepción, la CALIDAD/CANTIDAD de los datos, conociendo el contexto, es lo que garantiza la obtención de Información relevante y de calidad.
 </p>
 <p style="text-align: justify; text-indent: 2em;">
 El utilizar codigo de Python en la consecusión de Objetivos profesionales, convierte el proceso en algo tan apasionante y/o entretenido como Jugar Sudoku o resolver misterios...
