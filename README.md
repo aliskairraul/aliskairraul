@@ -13,6 +13,9 @@ Ingeniero en Información de carrera, mi enfoque en convertir datos en informaci
 El utilizar codigo de Python en la consecusión de Objetivos profesionales, convierte el proceso en algo tan apasionante y/o entretenido como Jugar Sudoku o resolver misterios...
 </p>
 
+aliskairraul@gmail.com<br>
+cel: +58-4122841181
+
 ### Proyectos
 
 <p style="text-align: justify; text-indent: 2em;">
