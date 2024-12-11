@@ -3,6 +3,7 @@
 ### Hola mi nombre es Aliskair Rodríguez 👋
 aliskairraul@gmail.com<br>
 cel: +58-4122841181
+https://www.linkedin.com/in/aliskair-rodriguez-782b3641
 ---
 
 ### Acerca de mi
