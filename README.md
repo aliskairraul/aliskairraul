@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Banner"> <br>
+<img src="assets/banner_final.png" alt="Banner"> <br>
 
 ### Hola mi nombre es Aliskair Rodríguez 👋
 
