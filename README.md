@@ -58,21 +58,30 @@ Por favor tome en cuenta que los proyectos fueron desplegados en las capas gratu
     </td>
   </tr>
   <tr>
-  <td>
-    <a href="https://huggingface.co/spaces/raulstudent/labs_2" target="_blank">
-      <img src="assets/henry-lab_2.png" alt="Proyecto Lab 2" style="width:480px;height:240px;">
-    </a>
-    <br>
-    <a href="https://github.com/aliskairraul/Bootcamp-Henry-Proyecto-Lab_2.git">Repositorio</a>
-  </td>
-  <td>
-    <a href="https://huggingface.co/spaces/aliskairraul/unPocoDeEspana" target="_blank">
-      <img src="assets/unPocoDeEspana.png" alt="Proyecto Un Poco de España" style="width:480px;height:240px;">
-    </a>
-    <br>
-    <a href="https://github.com/aliskairraul/conociendoEspana">Repositorio</a>
-  </td>
-</tr>
+    <td>
+      <a href="https://huggingface.co/spaces/raulstudent/labs_2" target="_blank">
+        <img src="assets/henry-lab_2.png" alt="Proyecto Lab 2" style="width:480px;height:240px;">
+      </a>
+      <br>
+      <a href="https://github.com/aliskairraul/Bootcamp-Henry-Proyecto-Lab_2.git">Repositorio</a>
+    </td>
+    <td>
+      <a href="https://huggingface.co/spaces/aliskairraul/unPocoDeEspana" target="_blank">
+        <img src="assets/unPocoDeEspana.png" alt="Proyecto Un Poco de España" style="width:480px;height:240px;">
+      </a>
+      <br>
+      <a href="https://github.com/aliskairraul/conociendoEspana">Repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://predicciondireccionbitcoin.onrender.com/" target="_blank">
+        <img src="assets/direccion_bitcoin.png" alt="Predicción Dirección Bitcoin" style="width:480px;height:240px;">
+      </a>
+      <br>
+      <a href="https://github.com/aliskairraul/PrediccionDireccionBitcoin">Repositorio</a>
+    </td>
+  </tr>
 </table>
 
 <!--
